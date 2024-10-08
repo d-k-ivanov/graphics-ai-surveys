@@ -5,3 +5,4 @@
 * [Weihao et al.: A Survey on Deep Generative 3D-aware Image Synthesis](weihaox-3D-aware-Gen/README.md)
 * [Weihao et al.: GAN Inversion: A Survey (ArXiv)](https://arxiv.org/abs/2101.05278)
 * [Weihao et al.: GAN Inversion: A Survey](weihaox-GAN-Inversion/README.md)
+* [Ziyi Yang: Inverse-Rendering](ingra14m-Inverse-Rendering/README.md)
